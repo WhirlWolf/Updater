@@ -22,3 +22,13 @@ Get update alerts for TaskerNet shares, github repos, dropbox files, etc.
 - Download updates
 - See changelog without going to source
 - Share links to add
+
+## Contributing
+Found a bug or have a feature request?
+[Open an issue](https://github.com/WhirlWolf/Updater/issues)
+
+---
+
+<a href="https://ko-fi.com/whirlwolf" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee" width="150"/>
+</a>
