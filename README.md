@@ -4,7 +4,7 @@
 </p>
   
 # Updater
-Get update alerts for TaskerNet shares, github repos, dropbox files, etc.
+Get update alerts for taskernet shares, github repos, dropbox files, etc.
 </div>
 
 ---
